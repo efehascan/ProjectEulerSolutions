@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\bin\Debug\net8.0\LargestProductinaSeries.exe
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\bin\Debug\net8.0\LargestProductinaSeries.deps.json
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\bin\Debug\net8.0\LargestProductinaSeries.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\bin\Debug\net8.0\LargestProductinaSeries.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\bin\Debug\net8.0\LargestProductinaSeries.pdb
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\refint\LargestProductinaSeries.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.pdb
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\LargestProductinaSeries.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestProductinaSeries\obj\Debug\net8.0\ref\LargestProductinaSeries.dll
