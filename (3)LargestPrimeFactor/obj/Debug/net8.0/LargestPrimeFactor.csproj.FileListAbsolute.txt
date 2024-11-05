@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.exe
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.deps.json
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.pdb
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\refint\LargestPrimeFactor.dll
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.pdb
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\LargestPrimeFactor\obj\Debug\net8.0\ref\LargestPrimeFactor.dll
