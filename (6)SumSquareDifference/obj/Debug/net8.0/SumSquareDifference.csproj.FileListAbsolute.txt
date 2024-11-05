@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\bin\Debug\net8.0\SumSquareDifference.exe
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\bin\Debug\net8.0\SumSquareDifference.deps.json
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\bin\Debug\net8.0\SumSquareDifference.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\bin\Debug\net8.0\SumSquareDifference.dll
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\bin\Debug\net8.0\SumSquareDifference.pdb
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.dll
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\refint\SumSquareDifference.dll
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.pdb
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\SumSquareDifference.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\SumSquareDifference\obj\Debug\net8.0\ref\SumSquareDifference.dll
