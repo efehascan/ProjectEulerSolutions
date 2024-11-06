@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.exe
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.deps.json
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.dll
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\bin\Debug\net8.0\SummationofPrimes.pdb
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.dll
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\refint\SummationofPrimes.dll
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.pdb
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\SummationofPrimes.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\SummationofPrimes\obj\Debug\net8.0\ref\SummationofPrimes.dll
