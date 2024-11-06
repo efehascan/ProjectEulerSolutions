@@ -1,0 +1,14 @@
+Türkçe Açıklama
+Bu proje, Project Euler'in 9. sorusu olan "Özel Pisagor Üçlüsü" probleminde verilen görevi çözmek için geliştirilmiştir.
+Pisagor üçlüsü, a^2 + b^2 = c^2 denklemini sağlayan üç doğal sayıdan (a, b, c) oluşan bir settir.
+Örneğin, 3^2 + 4^2 = 9 + 16 = 25 = 5^2 eşitliğiyle 3, 4 ve 5 bir Pisagor üçlüsüdür.
+Görevde, a + b + c = 1000 koşulunu sağlayan tek bir Pisagor üçlüsü olduğu ve bu üçlünün çarpımının (abc) bulunması istenmektedir.
+Bu projede, verilen koşulu sağlayan (a, b, c) değerlerini bularak çarpımı hesaplayan bir algoritma ile çözüm sağlanmıştır.
+
+
+English Description
+This project was developed to solve the "Special Pythagorean Triplet" problem, which is the 9th question of Project Euler.
+A Pythagorean triplet is a set of three natural numbers (a, b, c) that satisfy the equation a^2 + b^2 = c^2.
+For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2, so 3, 4, and 5 form a Pythagorean triplet.
+The task is to find the unique Pythagorean triplet for which a + b + c = 1000 and calculate the product (abc).
+In this project, we implemented an algorithm to find the values of (a, b, c) that satisfy the condition and compute their product.
