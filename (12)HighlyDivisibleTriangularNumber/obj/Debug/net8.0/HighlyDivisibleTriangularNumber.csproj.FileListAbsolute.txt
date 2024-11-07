@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\bin\Debug\net8.0\HighlyDivisibleTriangularNumber.exe
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\bin\Debug\net8.0\HighlyDivisibleTriangularNumber.deps.json
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\bin\Debug\net8.0\HighlyDivisibleTriangularNumber.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\bin\Debug\net8.0\HighlyDivisibleTriangularNumber.dll
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\bin\Debug\net8.0\HighlyDivisibleTriangularNumber.pdb
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.dll
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\refint\HighlyDivisibleTriangularNumber.dll
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.pdb
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\HighlyDivisibleTriangularNumber.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\HighlyDivisibleTriangularNumber\obj\Debug\net8.0\ref\HighlyDivisibleTriangularNumber.dll
